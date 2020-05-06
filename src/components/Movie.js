@@ -1,6 +1,6 @@
 import React from 'react';
 
-const DEFAULT_PLACEHOLDER_IMAGE = "https://m.media-amazon.com/images/M/MV5BMTczNTI2ODUwOF5BMl5BanBnXkFtZTcwMTU0NTIzMw@@._V1_SX300.jpg";
+const DEFAULT_PLACEHOLDER_IMAGE = "http://via.placeholder.com/200x300";
 
 const Movie = ({ movie }) => {
   
